@@ -1,10 +1,3 @@
-using System;
-using System.Linq;
-using System.Collections.Generic;
-using System.Reflection.Emit;
-using Microsoft.VisualBasic;
-using System.Linq.Expressions;
-
 namespace AdventOfCode2024.days
 {
     public class Day1
