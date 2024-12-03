@@ -1,0 +1,5 @@
+2024/obj
+*.csproj
+*.sln
+2024/bin
+.vscode
