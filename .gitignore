@@ -1,0 +1,10 @@
+2024/obj
+*.csproj
+*.sln
+2024/bin
+.vscode
+*.beam
+*.ez
+advent_of_gleam_2024/build
+erl_crash.dump
+inputs/
