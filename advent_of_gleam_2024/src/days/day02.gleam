@@ -7,7 +7,7 @@ import gleam/result
 import utils/parsing
 
 pub fn solve() {
-    case parsing.read_input("inputs/day2.txt") {
+    case parsing.read_into_lines("inputs/day2.txt") {
         Ok(content) -> {
             let part1 = solve_part1(content)
             let part2 = solve_part2(content)
